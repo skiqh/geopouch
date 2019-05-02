@@ -1,6 +1,6 @@
 {
   "name": "geopouch",
-  "version": "2.0.3",
+  "version": "2.0.4",
   "description": "Put some geo in your pouch",
   "main": "index.js",
   "repository": {
@@ -25,8 +25,8 @@
   },
   "dependencies": {
     "async-rtree": "^1.2.1",
-    "create-hash": "^1.0.2",
     "geojson-bounding-volume": "^0.2.2",
+    "js-sha256": "^0.9.0",
     "lie": "^3.1.0"
   },
   "devDependencies": {
